@@ -1,0 +1,1 @@
+Sistema basico para escanear portas abertas em uma Host. Codigo feito apenas pra praticar, talvez seja util pra alguem.
